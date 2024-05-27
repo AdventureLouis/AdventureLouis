@@ -10,10 +10,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adventurelouis&label=Profile%20views&color=0e75b6&style=flat" alt="adventurelouis" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://louisadibe.com/](https://louisadibe.com/)
+  
+- 🌱 I’m currently learning  AWS Services
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
-- 💬 Ask me about **Python,Tableau,Java,react**
+- 💬 Ask me about **AWS Services,Python,Tableau,Java
 
 - 📫 How to reach me **louis.adibe10@gmail.com**
 
