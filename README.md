@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://louisadibe.com/](https://louisadibe.com/)
   
-- 🌱 I’m currently learning  AWS Services
+- 🌱 I’m currently learning  AWS Services and currently enroled in Cloud  Career Mentor Programme
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
