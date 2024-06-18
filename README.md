@@ -8,8 +8,6 @@
 <h3 align="center">A passionate developer based in Hongkong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adventurelouis&label=Profile%20views&color=0e75b6&style=flat" alt="adventurelouis" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://louisadibe.com/](https://louisadibe.com/)
   
 - 🌱 I’m currently learning  AWS Services and currently enroled in Cloud  Career Mentor Programme
 
