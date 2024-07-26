@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adventurelouis&label=Profile%20views&color=0e75b6&style=flat" alt="adventurelouis" /> </p>
   
-- 🌱 I’m currently learning  AWS Services and currently enroled in Cloud  Career Mentor Programme
+- 🌱 I’m currently Creating AWS services using infrastructure as a code(Terraform)
 
 - 📝 I regularly write articles on [medium.com](medium.com)
 
